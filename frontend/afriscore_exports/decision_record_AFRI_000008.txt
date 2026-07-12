@@ -1,0 +1,17 @@
+AfriScore — Credit Decision Record
+Generated 2026-07-12 22:26 | Model v1.0.0 | Attribution mode: shap
+
+Applicant Reference: AFRI_000008
+AfriScore: 506 / Tier: Building
+System Recommendation: DECLINE — ROUTE TO LITERACY TRACK
+
+Basis for recommendation:
+- Mobile Money Velocity: flagged for review (64% attributed weight)
+- Savings Behavior: flagged for review (14% attributed weight)
+- Income & Txn Regularity: flagged for review (9% attributed weight)
+- Utility Payment Consistency: flagged for review (6% attributed weight)
+- Smallholder / Informal Income Segment: supports approval (4% attributed weight)
+
+This recommendation is generated for human review, not automatic execution.
+A licensed credit officer retains final authority to override.
+Modeled default probability: 68.4%.

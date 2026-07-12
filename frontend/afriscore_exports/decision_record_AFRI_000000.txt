@@ -1,0 +1,17 @@
+AfriScore — Credit Decision Record
+Generated 2026-07-12 22:49 | Model v1.0.0 | Attribution mode: shap
+
+Applicant Reference: AFRI_000000
+AfriScore: 825 / Tier: Prime
+System Recommendation: APPROVE
+
+Basis for recommendation:
+- Mobile Money Velocity: supports approval (44% attributed weight)
+- Utility Payment Consistency: supports approval (23% attributed weight)
+- Savings Behavior: supports approval (17% attributed weight)
+- Income & Txn Regularity: flagged for review (12% attributed weight)
+- Smallholder / Informal Income Segment: supports approval (3% attributed weight)
+
+This recommendation is generated for human review, not automatic execution.
+A licensed credit officer retains final authority to override.
+Modeled default probability: 19.3%.

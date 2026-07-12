@@ -1,0 +1,15 @@
+age
+mobile_txn_count_6m
+avg_txn_amount
+txn_regularity_score
+utility_consistency
+has_electricity_payment
+education_level
+skills_completed
+savings_rate_proxy
+app_engagement_score
+is_smallholder
+farm_size_proxy
+yield_risk_score
+txn_volume_proxy
+engagement_x_savings
