@@ -1,7 +1,7 @@
 # AfriScore
 **Privacy-Preserving AI Credit & Portable Financial Identity Infrastructure for Africa**
 
-## Hackathon Context (Wema Bank Hackaholics 7.0 - Uyo 2026)
+## Hackathon Context 
 - **Track**: Hackathon
 - **Primary Challenge Area**: Financial Inclusion
 - **Secondary**: Digital Transformation
